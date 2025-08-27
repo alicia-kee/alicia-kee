@@ -1,4 +1,4 @@
-<h1 align="left"> ✿ Hi, I'm Alicia! Welcome to my Github Profile! ✿</h1>
+<h1 align="left"> Hi, I'm Alicia! Welcome to my Github Profile! ✿</h1>
 <h3 align="left">I am a third-year student at the University of Manitoba with a passion for bringing ideas to life through technology. I enjoy working on projects that blend creativity with problem-solving, and I'm always looking for opportunities to learn, build, and grow in the tech field!</h3>
 
 - 🌱 I’m currently learning **front-end !**
