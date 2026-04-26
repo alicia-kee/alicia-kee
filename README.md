@@ -1,12 +1,8 @@
 <h1 align="left">Hi there!🩵 I'm Alicia</h1>
 <h3 align="left">I am a third-year student at the University of Manitoba with a passion for bringing ideas to life through technology. I enjoy working on projects that blend creativity with problem-solving, and I'm always looking for opportunities to learn, build, and grow in the tech field!</h3>
 
-- 📫 How to reach me **alicia.kxs@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/alicia-kee**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alicia-kee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicia-kee" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
